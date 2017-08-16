@@ -5,14 +5,11 @@ using System.Web;
 
 namespace Anderson_de_Jesus.Models
 {
-    public class Category
-    {
+	public class Category
+	{
         public long CategoryId { get; set; }
 
-        public string Name { get; set; }
-
-
+        public String Name { get; set; }
 
     }
-
 }

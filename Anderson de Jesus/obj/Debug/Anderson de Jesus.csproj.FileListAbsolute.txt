@@ -44,3 +44,49 @@ E:\FACULDADE 2 SEMESTRE\Anderson de Jesus\Anderson de Jesus\bin\System.Web.Mvc.x
 E:\FACULDADE 2 SEMESTRE\Anderson de Jesus\Anderson de Jesus\obj\Debug\Anderson de Jesus.csprojResolveAssemblyReference.cache
 E:\FACULDADE 2 SEMESTRE\Anderson de Jesus\Anderson de Jesus\obj\Debug\Anderson de Jesus.dll
 E:\FACULDADE 2 SEMESTRE\Anderson de Jesus\Anderson de Jesus\obj\Debug\Anderson de Jesus.pdb
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\ApplicationInsights.config
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\roslyn\csc.exe
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\roslyn\System.Collections.Immutable.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\roslyn\System.Reflection.Metadata.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\roslyn\vbc.exe
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\roslyn\VBCSCompiler.exe
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\roslyn\VBCSCompiler.exe.config
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Anderson de Jesus.dll.config
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Anderson de Jesus.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Anderson de Jesus.pdb
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Microsoft.AI.Agent.Intercept.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Microsoft.AI.DependencyCollector.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Microsoft.AI.Web.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Microsoft.AI.WindowsServer.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Microsoft.ApplicationInsights.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Microsoft.Web.Infrastructure.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\System.Web.Helpers.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\System.Web.Mvc.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\System.Web.Razor.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\System.Web.Webpages.Deployment.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\System.Web.Webpages.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\System.Web.Webpages.Razor.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Microsoft.AI.DependencyCollector.xml
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Microsoft.AI.Web.xml
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Microsoft.AI.WindowsServer.xml
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Microsoft.ApplicationInsights.xml
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\System.Web.Razor.xml
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\System.Web.Webpages.xml
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\System.Web.Webpages.Deployment.xml
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\System.Web.Webpages.Razor.xml
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\System.Web.Helpers.xml
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\bin\System.Web.Mvc.xml
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\obj\Debug\Anderson de Jesus.csprojResolveAssemblyReference.cache
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\obj\Debug\Anderson de Jesus.dll
+E:\FACULDADE 2 SEMESTRE\PROGRAMAÇÃO VISUAL\Anderson de Jesus\Anderson de Jesus\obj\Debug\Anderson de Jesus.pdb
